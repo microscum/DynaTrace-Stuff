@@ -1,4 +1,4 @@
-# DynaTrace Components Reference
+# DynaTrace Apps Reference
 
 ## Services
 
