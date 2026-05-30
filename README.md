@@ -27,6 +27,12 @@ mindmap
   - `Dynatrace-Kubernetes-App.md` — Kubernetes clusters, namespaces, pods, workloads, and container metrics.
   - `Dynatrace-Infrastructure-Observability-App.md` — host, process, container, and infrastructure metrics.
   - `Dynatrace-Problems-App.md` — problem detection, prioritization, impact, and root cause.
+  - `Dynatrace-Message-Queues-App.md` — message queue health, broker monitoring, backlog, and asynchronous communication metrics.
+  - `Dynatrace-Business-Flow-App.md` — business transactions, flow visibility, drop-off, and business impact analysis.
+  - `Dynatrace-Workflows-App.md` — workflow triggers, actions, automation, and response orchestration.
+  - `Dynatrace-SLO-App.md` — service level objectives, reliability targets, and compliance monitoring.
+  - `Dynatrace-Site-Reliability-Guardian-App.md` — AI-powered reliability risk detection, scoring, and remediation recommendations.
+  - `Dynatrace-Anomaly-Detection-App.md` — anomaly detection, baselines, timely alerts, and noise reduction for observability.
 - **Application Security**
   - `DynaTrace-Application-Security-App.md` — runtime threats, vulnerabilities, risk scoring, and security context.
 - **Flashcards** (`DynaTrace-Associate-Certification/flashcards/`)
@@ -37,6 +43,20 @@ mindmap
   - `Dynatrace-Infrastructure-Observability-Flashcards.md`
   - `Dynatrace-Application-Security-Flashcards.md`
   - `Dynatrace-Problems-Flashcards.md`
+  - `Dynatrace-Vulnerabilities-Flashcards.md`
+  - `Dynatrace-Experience-Vitals-Flashcards.md`
+  - `Dynatrace-Clouds-Flashcards.md`
+  - `Dynatrace-DQL-Flashcards.md`
+  - `Dynatrace-Grail-Flashcards.md`
+  - `Dynatrace-DAVIS-AI-Flashcards.md`
+  - `Dynatrace-Logs-Flashcards.md`
+  - `Dynatrace-Distributed-Tracing-Flashcards.md`
+  - `Dynatrace-Message-Queues-Flashcards.md`
+  - `Dynatrace-Business-Flow-Flashcards.md`
+  - `Dynatrace-Workflows-Flashcards.md`
+  - `Dynatrace-SLO-Flashcards.md`
+  - `Dynatrace-Site-Reliability-Guardian-Flashcards.md`
+  - `Dynatrace-Anomaly-Detection-Flashcards.md`
 - **Practice**
   - `DynaTrace-Associate-Certification/practice-exams.md` — practice questions and exam preparation.
 - **Exercise Resources**
