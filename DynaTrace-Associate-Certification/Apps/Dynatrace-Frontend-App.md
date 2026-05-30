@@ -39,6 +39,7 @@ mindmap
 - **JavaScript Error**: A runtime error in client-side code that may impact user experience.
 - **Source Map**: A file that maps minified code to original source code for better error diagnostics.
 - **Resource Timing**: Measurements of how long resources take to load and execute.
+- **Core Web Vitals**: Browser metrics for load speed, visual stability, and responsiveness such as LCP, CLS, and INP.
 - **Rendering Performance**: The efficiency of DOM manipulation and painting.
 - **CORS**: Cross-Origin Resource Sharing issues that affect API calls from the browser.
 
@@ -52,6 +53,7 @@ mindmap
 ### Performance Analysis
 - Analyzes JavaScript execution time and blocking operations.
 - Measures DOM interaction and rendering performance.
+- Uses Core Web Vitals such as LCP, CLS, and INP to expose front-end load, stability, and responsiveness issues.
 - Identifies slow functions and CPU-intensive operations.
 
 ### Resource Management
@@ -88,6 +90,7 @@ mindmap
 - Understand the importance of source maps for error diagnostics.
 - Be able to explain how front-end performance affects user satisfaction.
 - Recognize that front-end errors can correlate with backend issues.
+- Know that Core Web Vitals such as LCP, CLS, and INP are important for frontend experience quality.
 - Remember that front-end metrics are part of overall digital experience.
 
 ## Best Practices
@@ -97,6 +100,13 @@ mindmap
 - Use front-end performance data to establish SLOs.
 - Optimize resource loading and execution time.
 - Correlate front-end issues with backend data for root cause analysis.
+- Track Core Web Vitals to understand how frontend performance affects real user experience.
+
+## Related Links
+- [Core Web Vitals overview](https://web.dev/vitals/)
+- [Largest Contentful Paint (LCP)](https://web.dev/lcp/)
+- [Cumulative Layout Shift (CLS)](https://web.dev/cls/)
+- [Interaction to Next Paint (INP)](https://web.dev/inp/)
 
 ## Summary
 

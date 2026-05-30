@@ -44,6 +44,15 @@ A: A recorded sequence of user interactions with an application from start to fi
 ### Q: What does page load time measure? ⏱️
 A: The time it takes for a web page to fully load and become interactive for the user.
 
+### Q: What is LCP (Largest Contentful Paint)? 🖼️
+A: It measures when the largest visible page content has loaded, helping assess page load speed from a user's perspective.
+
+### Q: What is CLS (Cumulative Layout Shift)? 🔄
+A: It measures visual stability by tracking unexpected layout shifts that can disrupt the user experience.
+
+### Q: What is INP (Interaction to Next Paint)? ⚡
+A: It measures responsiveness by timing how long it takes the page to render after a user interaction.
+
 ### Q: What is visually complete? 👁️
 A: The point at which all visual elements on a page have finished rendering.
 
@@ -52,7 +61,8 @@ A: RUM data is linked to related services and infrastructure to understand end-t
 
 ### Q: What is funnel analysis in RUM? 🔀
 A: Tracking user flows through critical business steps to identify where users drop off.
-
+### Q: How does Dynatrace use Core Web Vitals in RUM? 🌐
+A: It surfaces metrics like LCP, CLS, and INP in RUM dashboards to correlate page quality with user sessions and backend issues.
 ### Q: What exam concept matters for RUM? 📘
 A: Know that RUM captures real user experience as a primary indicator of application health.
 

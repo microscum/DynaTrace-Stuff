@@ -41,6 +41,12 @@ A: They connect user experience monitoring to business impact and show how Dynat
 ### Q: What does Apdex measure? 📏
 A: User satisfaction based on response time thresholds and the ratio of happy to unhappy user actions.
 
+### Q: What are Core Web Vitals? 🧭
+A: Key browser metrics—LCP, CLS, and INP—that describe load speed, visual stability, and responsiveness.
+
+### Q: How does Experience Vitals use Core Web Vitals? 📊
+A: It includes LCP, CLS, and INP as part of user experience health to identify performance issues that affect satisfaction.
+
 ### Q: What is frustration analysis? 😠
 A: A technique to detect poor user experiences by looking for slow actions, errors, or dead clicks.
 

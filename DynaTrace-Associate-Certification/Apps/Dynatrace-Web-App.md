@@ -40,6 +40,7 @@ mindmap
 - **Endpoint**: A specific URL or API path that handles requests.
 - **Web Page**: A resource served to the browser for user interaction.
 - **Web Service**: A backend service that supports web application functionality.
+- **Core Web Vitals**: Metrics like LCP, CLS, and INP that indicate page loading quality, visual stability, and responsiveness.
 - **User Journey**: The path a user takes through pages and interactions in a web app.
 
 ## Main Features
@@ -72,6 +73,7 @@ mindmap
 ### Performance Correlation
 - Links web performance to backend service metrics.
 - Correlates page load issues with service response times.
+- Includes Core Web Vitals in web performance analysis to correlate user experience with backend behavior.
 - Shows the full impact chain from user to infrastructure.
 
 ## Typical Uses for the Associate Certification
@@ -87,6 +89,7 @@ mindmap
 - Know that Web app monitors pages, endpoints, and services.
 - Understand the relationship between web metrics and user satisfaction.
 - Be able to explain how web monitoring supports SLOs.
+- Know how Core Web Vitals such as LCP, CLS, and INP contribute to web experience quality.
 - Recognize that web issues often have service-side root causes.
 - Remember that web data feeds into overall business metrics.
 
@@ -97,6 +100,13 @@ mindmap
 - Correlate web issues with backend services for faster root cause analysis.
 - Use web data to establish and validate SLOs.
 - Track user satisfaction alongside technical metrics.
+- Add Core Web Vitals to your monitoring mix to capture page load, stability, and responsiveness problems.
+
+## Related Links
+- [Core Web Vitals overview](https://web.dev/vitals/)
+- [Largest Contentful Paint (LCP)](https://web.dev/lcp/)
+- [Cumulative Layout Shift (CLS)](https://web.dev/cls/)
+- [Interaction to Next Paint (INP)](https://web.dev/inp/)
 
 ## Summary
 

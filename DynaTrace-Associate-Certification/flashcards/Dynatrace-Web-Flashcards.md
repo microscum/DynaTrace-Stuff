@@ -41,6 +41,12 @@ A: It provides comprehensive monitoring across multiple application layers.
 ### Q: What is endpoint analysis? 🎯
 A: Analyzing individual API endpoints and URLs for performance and availability.
 
+### Q: What are Core Web Vitals? 🧭
+A: LCP, CLS, and INP are browser metrics used to evaluate page load quality, visual stability, and responsiveness.
+
+### Q: Why do Core Web Vitals matter in Web monitoring? 🌐
+A: They help connect page performance and user experience with backend service behavior and overall availability.
+
 ### Q: What is a user journey? 🚶
 A: The path a user takes through pages and interactions in a web application.
 

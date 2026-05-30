@@ -38,6 +38,7 @@ mindmap
 
 - **Experience Vitals**: Metrics that indicate the quality of user interactions and digital experience.
 - **Apdex**: A score reflecting user satisfaction based on response time thresholds.
+- **Core Web Vitals**: Browser metrics like LCP, CLS, and INP that influence load experience, stability, and responsiveness.
 - **User Journey**: The sequence of actions a user takes through an application.
 - **Session**: A recorded period of user activity within an application.
 - **User Impact**: The effect of performance or error issues on real users.
@@ -52,6 +53,7 @@ mindmap
 ### User Experience Analysis
 - Identifies slow pages, failed interactions, and degradation patterns.
 - Correlates experience metrics with specific user journeys.
+- Includes Core Web Vitals signals such as LCP, CLS, and INP to identify experience degradations.
 - Supports segmentation by user type, location, and technology.
 
 ### Trend and Comparison
@@ -76,6 +78,7 @@ mindmap
 - Know that Experience Vitals focuses on user satisfaction metrics like Apdex and load time.
 - Understand how session and journey data support experience analysis.
 - Be able to explain why segmenting metrics by geography or device matters.
+- Know that Experience Vitals can surface Core Web Vitals issues such as LCP, CLS, and INP.
 - Remember that experience vitals are directly tied to user impact.
 
 ## Best Practices
@@ -84,6 +87,14 @@ mindmap
 - Use trends and comparisons to validate performance improvements.
 - Focus on the metrics that have the biggest user impact first.
 - Share experience reports with business stakeholders.
+
+## Related Links
+- [What is AppDex](https://raygun.com/blog/apdex-score-guide/)
+- [AppDex Guide](https://raygun.com/blog/apdex-score-guide/)
+- [Core Web Vitals overview](https://web.dev/vitals/)
+- [Largest Contentful Paint (LCP)](https://web.dev/lcp/)
+- [Cumulative Layout Shift (CLS)](https://web.dev/cls/)
+- [Interaction to Next Paint (INP)](https://web.dev/inp/)
 
 ## Summary
 

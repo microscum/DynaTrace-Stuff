@@ -28,7 +28,9 @@ Exam details
 
 ## Notes
 
-[Dynatrace Exam Mindmap](https://university.dynatrace.com/assets/21181/dynatrace_associate_mindmap_012023.pdf)
+[DWhat is Observability?](hhttps://www.solarwinds.com/resources/it-glossary/observability)
+
+[What is IT Security](https://www.cisco.com/site/us/en/learn/topics/security/what-is-it-security.html)
 
 [Dynatrace Microlearning](https://university.dynatrace.com/ondemand)
 
@@ -78,6 +80,8 @@ Exam details
   - Explains JavaScript error tracking, front-end performance, source maps, and optimization.
 - [Apps/Dynatrace-Web-App.md](Apps/Dynatrace-Web-App.md)
   - Describes web application monitoring, pages, endpoints, user journeys, and correlations.
+- [Apps/Dynatrace-Experience-Vitals-App.md](Apps/Dynatrace-Experience-Vitals-App.md)
+  - Covers user experience signals like Apdex, Core Web Vitals, session impact, and satisfaction metrics.
 - [Apps/Dynatrace-Profiling-Optimization-App.md](Apps/Dynatrace-Profiling-Optimization-App.md)
   - Covers code-level profiling, CPU and memory analysis, hotspot detection, and optimization.
 - [Apps/Dynatrace-Reports-App.md](Apps/Dynatrace-Reports-App.md)

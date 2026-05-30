@@ -53,6 +53,12 @@ A: Tracking memory allocation and identifying memory leaks.
 ### Q: How do resource timings help? ⏱️
 A: They show how long scripts, styles, and other resources take to load and execute.
 
+### Q: What are Core Web Vitals? 🧭
+A: LCP, CLS, and INP are browser metrics that measure loading speed, visual stability, and interaction responsiveness.
+
+### Q: How does the Frontend app help with Core Web Vitals? 🔍
+A: It uses front-end performance and rendering data to highlight issues that affect LCP, CLS, and INP.
+
 ### Q: What exam point matters? 📘
 A: Know that frontend performance directly impacts user satisfaction and SLOs.
 

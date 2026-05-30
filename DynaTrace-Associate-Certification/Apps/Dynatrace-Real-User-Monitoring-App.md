@@ -40,6 +40,7 @@ mindmap
 - **Real User**: Actual end users interacting with the application in production.
 - **Page Load Time**: The time it takes for a web page to fully load and become interactive.
 - **Visually Complete**: The time when all visual elements are rendered on the page.
+- **Core Web Vitals**: Browser metrics such as LCP, CLS, and INP that describe page speed, visual stability, and responsiveness.
 - **User Behavior**: The pattern of user actions and navigation through the application.
 
 ## Main Features
@@ -51,6 +52,7 @@ mindmap
 
 ### Performance Metrics
 - Measures page load time, visually complete time, and time to interactive.
+- Measures Core Web Vitals such as Largest Contentful Paint (LCP), Cumulative Layout Shift (CLS), and Interaction to Next Paint (INP) to help quantify user experience quality.
 - Tracks resource timings for JavaScript, stylesheets, and images.
 - Identifies slow or failing resource loads that impact user experience.
 
@@ -87,6 +89,7 @@ mindmap
 - Know that RUM captures real user interactions from the client side.
 - Understand the difference between page load time and visually complete time.
 - Be able to explain how RUM metrics relate to user satisfaction.
+- Know the meaning of Core Web Vitals such as LCP, CLS, and INP and how they reflect web experience quality.
 - Recognize that RUM is essential for digital experience monitoring.
 - Remember that RUM data can be correlated with service and infrastructure issues.
 
@@ -97,6 +100,15 @@ mindmap
 - Investigate high-impact error types that affect many users.
 - Correlate frontend issues with backend data to find root causes.
 - Monitor RUM metrics as a primary indicator of application health.
+
+## Related Links
+- [What is AppDex](https://raygun.com/blog/apdex-score-guide/)
+- [AppDex Guide](https://raygun.com/blog/apdex-score-guide/)
+- [Core Web Vitals overview](https://web.dev/vitals/)
+- [Largest Contentful Paint (LCP)](https://web.dev/lcp/)
+- [Cumulative Layout Shift (CLS)](https://web.dev/cls/)
+- [Interaction to Next Paint (INP)](https://web.dev/inp/)
+- [User Sessions](https://docs.dynatrace.com/docs/observe/digital-experience/rum-concepts/user-session)
 
 ## Summary
 
