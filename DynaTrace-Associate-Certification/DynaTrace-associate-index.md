@@ -68,6 +68,24 @@ Exam details
   - Highlights AI-powered reliability risk detection, scoring, and remediation recommendations.
 - [Apps/Dynatrace-Anomaly-Detection-App.md](Apps/Dynatrace-Anomaly-Detection-App.md)
   - Covers anomaly detection, baselines, timely alerts, and noise reduction for observability.
+- [Apps/Dynatrace-Real-User-Monitoring-App.md](Apps/Dynatrace-Real-User-Monitoring-App.md)
+  - Explains session tracking, performance metrics, user behavior analysis, and RUM integration.
+- [Apps/Dynatrace-Synthetic-App.md](Apps/Dynatrace-Synthetic-App.md)
+  - Describes browser and API synthetic monitoring, geo-distributed testing, and proactive detection.
+- [Apps/Dynatrace-Mobile-App.md](Apps/Dynatrace-Mobile-App.md)
+  - Covers mobile app monitoring for iOS and Android, crash analysis, and user experience.
+- [Apps/Dynatrace-Frontend-App.md](Apps/Dynatrace-Frontend-App.md)
+  - Explains JavaScript error tracking, front-end performance, source maps, and optimization.
+- [Apps/Dynatrace-Web-App.md](Apps/Dynatrace-Web-App.md)
+  - Describes web application monitoring, pages, endpoints, user journeys, and correlations.
+- [Apps/Dynatrace-Profiling-Optimization-App.md](Apps/Dynatrace-Profiling-Optimization-App.md)
+  - Covers code-level profiling, CPU and memory analysis, hotspot detection, and optimization.
+- [Apps/Dynatrace-Reports-App.md](Apps/Dynatrace-Reports-App.md)
+  - Explains scheduled reporting, performance metrics, compliance tracking, and stakeholder communication.
+- [Apps/Dynatrace-Releases-App.md](Apps/Dynatrace-Releases-App.md)
+  - Describes deployment tracking, release correlation, impact analysis, and regression detection.
+- [Apps/Dynatrace-Hub-App.md](Apps/Dynatrace-Hub-App.md)
+  - Covers extensions, integrations, custom plugins, and the Dynatrace marketplace.
 ## Flashcards
 
 - [flashcards/Dynatrace-Services-Flashcards.md](flashcards/Dynatrace-Services-Flashcards.md)
@@ -112,6 +130,24 @@ Exam details
   - AI-driven reliability risk detection and remediation recommendation review.
 - [flashcards/Dynatrace-Anomaly-Detection-Flashcards.md](flashcards/Dynatrace-Anomaly-Detection-Flashcards.md)
   - Anomaly detection, baselines, and proactive alerting concepts.
+- [flashcards/Dynatrace-Real-User-Monitoring-Flashcards.md](flashcards/Dynatrace-Real-User-Monitoring-Flashcards.md)
+  - Session tracking, performance metrics, user behavior, and RUM integration.
+- [flashcards/Dynatrace-Synthetic-Flashcards.md](flashcards/Dynatrace-Synthetic-Flashcards.md)
+  - Browser and API monitoring, geo-distributed testing, and proactive detection.
+- [flashcards/Dynatrace-Mobile-Flashcards.md](flashcards/Dynatrace-Mobile-Flashcards.md)
+  - iOS/Android monitoring, crash analysis, and mobile user experience.
+- [flashcards/Dynatrace-Frontend-Flashcards.md](flashcards/Dynatrace-Frontend-Flashcards.md)
+  - JavaScript errors, front-end performance, and optimization concepts.
+- [flashcards/Dynatrace-Web-Flashcards.md](flashcards/Dynatrace-Web-Flashcards.md)
+  - Web application monitoring, pages, endpoints, and user journey analysis.
+- [flashcards/Dynatrace-Profiling-Optimization-Flashcards.md](flashcards/Dynatrace-Profiling-Optimization-Flashcards.md)
+  - Code profiling, CPU/memory analysis, hotspots, and optimization.
+- [flashcards/Dynatrace-Reports-Flashcards.md](flashcards/Dynatrace-Reports-Flashcards.md)
+  - Scheduled reporting, performance metrics, and compliance communication.
+- [flashcards/Dynatrace-Releases-Flashcards.md](flashcards/Dynatrace-Releases-Flashcards.md)
+  - Deployment tracking, release correlation, and regression detection.
+- [flashcards/Dynatrace-Hub-Flashcards.md](flashcards/Dynatrace-Hub-Flashcards.md)
+  - Extensions, integrations, marketplace, and custom plugins.
 
 ## Other Resources in this Folder
 

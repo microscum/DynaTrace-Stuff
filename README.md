@@ -33,6 +33,15 @@ mindmap
   - `Dynatrace-SLO-App.md` — service level objectives, reliability targets, and compliance monitoring.
   - `Dynatrace-Site-Reliability-Guardian-App.md` — AI-powered reliability risk detection, scoring, and remediation recommendations.
   - `Dynatrace-Anomaly-Detection-App.md` — anomaly detection, baselines, timely alerts, and noise reduction for observability.
+  - `Dynatrace-Real-User-Monitoring-App.md` — session tracking, performance metrics, user behavior, and RUM integration.
+  - `Dynatrace-Synthetic-App.md` — browser and API synthetic monitoring, geo-distributed testing, and proactive detection.
+  - `Dynatrace-Mobile-App.md` — iOS and Android monitoring, crash analysis, and mobile user experience.
+  - `Dynatrace-Frontend-App.md` — JavaScript errors, front-end performance, source maps, and optimization.
+  - `Dynatrace-Web-App.md` — web application monitoring, pages, endpoints, and user journey analysis.
+  - `Dynatrace-Profiling-Optimization-App.md` — code profiling, CPU/memory analysis, hotspots, and optimization.
+  - `Dynatrace-Reports-App.md` — scheduled reporting, performance metrics, and compliance communication.
+  - `Dynatrace-Releases-App.md` — deployment tracking, release correlation, and regression detection.
+  - `Dynatrace-Hub-App.md` — extensions, integrations, and the Dynatrace marketplace.
 - **Application Security**
   - `DynaTrace-Application-Security-App.md` — runtime threats, vulnerabilities, risk scoring, and security context.
 - **Flashcards** (`DynaTrace-Associate-Certification/flashcards/`)
@@ -57,6 +66,15 @@ mindmap
   - `Dynatrace-SLO-Flashcards.md`
   - `Dynatrace-Site-Reliability-Guardian-Flashcards.md`
   - `Dynatrace-Anomaly-Detection-Flashcards.md`
+  - `Dynatrace-Real-User-Monitoring-Flashcards.md`
+  - `Dynatrace-Synthetic-Flashcards.md`
+  - `Dynatrace-Mobile-Flashcards.md`
+  - `Dynatrace-Frontend-Flashcards.md`
+  - `Dynatrace-Web-Flashcards.md`
+  - `Dynatrace-Profiling-Optimization-Flashcards.md`
+  - `Dynatrace-Reports-Flashcards.md`
+  - `Dynatrace-Releases-Flashcards.md`
+  - `Dynatrace-Hub-Flashcards.md`
 - **Practice**
   - `DynaTrace-Associate-Certification/practice-exams.md` — practice questions and exam preparation.
 - **Exercise Resources**
