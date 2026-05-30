@@ -39,3 +39,89 @@ Exam details
 [Dynatrace Basics - Lab Activities 101](https://dt-transform.com/trainings/dynatrace-basics-activities-101/#27)
 
 [Data Retention Periods](https://www.dynatrace.com/support/help/how-to-use-dynatrace/data-privacy-and-security/data-privacy/data-retention-periods)
+
+## Study Notes and App Reference
+
+- [Dynatrace Application Security](Dynatrace-Application-Security-App.md)
+  - Explains Application Security features, runtime threat detection, vulnerability scoring, and security correlation for Associate-level study.
+- [Apps/Dynatrace-Services-App.md](Apps/Dynatrace-Services-App.md)
+  - Covers the Services app, service discovery, service flow, PurePath tracing, and issue detection.
+- [Apps/Dynatrace-Dashboards-App.md](Apps/Dynatrace-Dashboards-App.md)
+  - Describes dashboard creation, tiles, data sources, sharing, and reporting for monitoring and certification concepts.
+- [Apps/Dynatrace-Digital-Experience-App.md](Apps/Dynatrace-Digital-Experience-App.md)
+  - Covers Real User Monitoring, synthetic tests, user sessions, and digital experience metrics.
+- [Apps/Dynatrace-Kubernetes-App.md](Apps/Dynatrace-Kubernetes-App.md)
+  - Describes Kubernetes cluster, namespace, node, pod, and workload monitoring in Dynatrace.
+- [Apps/Dynatrace-Infrastructure-Observability-App.md](Apps/Dynatrace-Infrastructure-Observability-App.md)
+  - Explains infrastructure monitoring for hosts, processes, containers, and resource metrics.
+- [Apps/Dynatrace-Problems-App.md](Apps/Dynatrace-Problems-App.md)
+  - Details Dynatrace problem detection, impact analysis, root cause insight, and triage workflows.
+- [Apps/Dynatrace-Message-Queues-App.md](Apps/Dynatrace-Message-Queues-App.md)
+  - Covers message queue health, broker monitoring, backlog, and asynchronous communication metrics.
+- [Apps/Dynatrace-Business-Flow-App.md](Apps/Dynatrace-Business-Flow-App.md)
+  - Explains business transactions, flow visibility, drop-off, and business impact analysis.
+- [Apps/Dynatrace-Workflows-App.md](Apps/Dynatrace-Workflows-App.md)
+  - Describes workflow triggers, actions, automation, and response orchestration.
+- [Apps/Dynatrace-SLO-App.md](Apps/Dynatrace-SLO-App.md)
+  - Tracks service level objectives, reliability targets, and compliance monitoring.
+- [Apps/Dynatrace-Site-Reliability-Guardian-App.md](Apps/Dynatrace-Site-Reliability-Guardian-App.md)
+  - Highlights AI-powered reliability risk detection, scoring, and remediation recommendations.
+- [Apps/Dynatrace-Anomaly-Detection-App.md](Apps/Dynatrace-Anomaly-Detection-App.md)
+  - Covers anomaly detection, baselines, timely alerts, and noise reduction for observability.
+## Flashcards
+
+- [flashcards/Dynatrace-Services-Flashcards.md](flashcards/Dynatrace-Services-Flashcards.md)
+  - Quick review of Services app concepts with Q&A, emojis, and a mindmap.
+- [flashcards/Dynatrace-Dashboards-Flashcards.md](flashcards/Dynatrace-Dashboards-Flashcards.md)
+  - Review dashboards concepts, tile types, filters, and certification-focused exam hints.
+- [flashcards/Dynatrace-Digital-Experience-Flashcards.md](flashcards/Dynatrace-Digital-Experience-Flashcards.md)
+  - Covers RUM, synthetic monitoring, sessions, metrics, and problems in a flashcard format.
+- [flashcards/Dynatrace-Kubernetes-Flashcards.md](flashcards/Dynatrace-Kubernetes-Flashcards.md)
+  - Kubernetes concepts, resource health, and troubleshooting summaries for Associate preparation.
+- [flashcards/Dynatrace-Infrastructure-Observability-Flashcards.md](flashcards/Dynatrace-Infrastructure-Observability-Flashcards.md)
+  - Infrastructure health, host/process/container metrics, and correlation flashcards.
+- [flashcards/Dynatrace-Application-Security-Flashcards.md](flashcards/Dynatrace-Application-Security-Flashcards.md)
+  - Security concepts, detection, risk scoring, and correlation in quick-review format.
+- [flashcards/Dynatrace-Problems-Flashcards.md](flashcards/Dynatrace-Problems-Flashcards.md)
+  - Problem detection, severity, impact, and investigation flashcards.
+- [flashcards/Dynatrace-Vulnerabilities-Flashcards.md](flashcards/Dynatrace-Vulnerabilities-Flashcards.md)
+  - Review vulnerability detection, risk scoring, and security context in Dynatrace.
+- [flashcards/Dynatrace-Experience-Vitals-Flashcards.md](flashcards/Dynatrace-Experience-Vitals-Flashcards.md)
+  - Covers user experience metrics, Apdex, frustration, and business impact.
+- [flashcards/Dynatrace-Clouds-Flashcards.md](flashcards/Dynatrace-Clouds-Flashcards.md)
+  - Cloud provider inventory, resource health, and cloud observability concepts.
+- [flashcards/Dynatrace-DQL-Flashcards.md](flashcards/Dynatrace-DQL-Flashcards.md)
+  - Query language review for advanced observability analytics and cross-data queries.
+- [flashcards/Dynatrace-Grail-Flashcards.md](flashcards/Dynatrace-Grail-Flashcards.md)
+  - Unified observability storage, scale, and cross-data correlation concepts.
+- [flashcards/Dynatrace-DAVIS-AI-Flashcards.md](flashcards/Dynatrace-DAVIS-AI-Flashcards.md)
+  - AI-driven problem detection, correlation, and root cause analysis review.
+- [flashcards/Dynatrace-Logs-Flashcards.md](flashcards/Dynatrace-Logs-Flashcards.md)
+  - Log collection, search, correlation, and troubleshooting flashcards.
+- [flashcards/Dynatrace-Distributed-Tracing-Flashcards.md](flashcards/Dynatrace-Distributed-Tracing-Flashcards.md)
+  - Distributed trace concepts, PurePath, latency breakdown, and root cause analysis.
+- [flashcards/Dynatrace-Message-Queues-Flashcards.md](flashcards/Dynatrace-Message-Queues-Flashcards.md)
+  - Messaging system health, queue metrics, and asynchronous communication insights.
+- [flashcards/Dynatrace-Business-Flow-Flashcards.md](flashcards/Dynatrace-Business-Flow-Flashcards.md)
+  - Business flow visualization, transaction success, and drop-off impact review.
+- [flashcards/Dynatrace-Workflows-Flashcards.md](flashcards/Dynatrace-Workflows-Flashcards.md)
+  - Workflow automation, triggers, actions, and operational response concepts.
+- [flashcards/Dynatrace-SLO-Flashcards.md](flashcards/Dynatrace-SLO-Flashcards.md)
+  - Service Level Objective definitions, indicators, and compliance review.
+- [flashcards/Dynatrace-Site-Reliability-Guardian-Flashcards.md](flashcards/Dynatrace-Site-Reliability-Guardian-Flashcards.md)
+  - AI-driven reliability risk detection and remediation recommendation review.
+- [flashcards/Dynatrace-Anomaly-Detection-Flashcards.md](flashcards/Dynatrace-Anomaly-Detection-Flashcards.md)
+  - Anomaly detection, baselines, and proactive alerting concepts.
+
+## Other Resources in this Folder
+
+- [practice-exams.md](practice-exams.md)
+  - Practice exam questions and review exercises for Associate certification readiness.
+- [Apps/](Apps/)
+  - App-specific study notes and diagrams for core Dynatrace modules.
+- [flashcards/](flashcards/)
+  - Quick review cards to reinforce key app concepts and exam focus.
+- [Exercises/](Exercises/)
+  - Practical exercises and lab activities for hands-on learning.
+- [files/](files/)
+  - Supporting materials and reference assets used by the certification notes.
