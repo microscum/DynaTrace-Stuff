@@ -7,37 +7,33 @@ The Dynatrace Digital Experience app provides visibility into how users interact
 ## Digital Experience Diagram
 
 ```mermaid
-flowchart TD
-  A[Digital Experience] --> B[Real User Monitoring]
-  A --> C[Synthetic Monitoring]
-  A --> D[User Sessions]
-  A --> E[Performance Metrics]
-  A --> F[Problems & Insights]
-
-  B --> B1[Web RUM]
-  B --> B2[Mobile RUM]
-  B --> B3[Session Replay]
-  B --> B4[Geography]
-
-  C --> C1[Availability Tests]
-  C --> C2[Performance Tests]
-  C --> C3[API Monitoring]
-  C --> C4[SLOs]
-
-  D --> D1[User Actions]
-  D --> D2[User Journeys]
-  D --> D3[Conversion]
-  D --> D4[Error Sessions]
-
-  E --> E1[Load Time]
-  E --> E2[Apdex]
-  E --> E3[Resource Timing]
-  E --> E4[XHR & Fetch]
-
-  F --> F1[User Experience Problems]
-  F --> F2[Root Cause]
-  F --> F3[Impact]
-  F --> F4[Problem Feed]
+mindmap
+  root((Digital Experience))
+    RealUserMonitoring((Real User Monitoring))
+      WebRUM[Web RUM]
+      MobileRUM[Mobile RUM]
+      SessionReplay[Session Replay]
+      Geography[Geography]
+    SyntheticMonitoring((Synthetic Monitoring))
+      AvailabilityTests[Availability Tests]
+      PerformanceTests[Performance Tests]
+      APIMonitoring[API Monitoring]
+      SLOs[SLOs]
+    UserSessions((User Sessions))
+      UserActions[User Actions]
+      UserJourneys[User Journeys]
+      Conversion[Conversion]
+      ErrorSessions[Error Sessions]
+    PerformanceMetrics((Performance Metrics))
+      LoadTime[Load Time]
+      Apdex[Apdex]
+      ResourceTiming[Resource Timing]
+      XHRFetch[XHR & Fetch]
+    ProblemsInsights((Problems & Insights))
+      UserExperienceProblems[User Experience Problems]
+      RootCause[Root Cause]
+      Impact[Impact]
+      ProblemFeed[Problem Feed]
 ```
 
 ## Key Concepts

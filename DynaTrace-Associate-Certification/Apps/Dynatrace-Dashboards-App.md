@@ -7,33 +7,30 @@ The Dynatrace Dashboards app lets users create custom visualizations and summary
 ## Dashboards App Diagram
 
 ```mermaid
-flowchart TD
-  A[Dashboards App] --> B[Dashboard Pages]
-  A --> C[Tiles & Visualizations]
-  A --> D[Data Sources]
-  A --> E[Sharing & Alerts]
-
-  B --> B1[Overview Dashboards]
-  B --> B2[Service Health Dashboards]
-  B --> B3[Infrastructure Dashboards]
-  B --> B4[Custom KPIs]
-
-  C --> C1[Charts]
-  C --> C2[Heatmaps]
-  C --> C3[Data Tables]
-  C --> C4[Single Value Tiles]
-  C --> C5[Custom Queries]
-
-  D --> D1[Metrics]
-  D --> D2[Problems]
-  D --> D3[Logs & Events]
-  D --> D4[Traces]
-  D --> D5[Entities]
-
-  E --> E1[Sharing Links]
-  E --> E2[Dashboards Permissions]
-  E --> E3[Alert Integration]
-  E --> E4[PDF/PNG Export]
+mindmap
+  root((Dynatrace Dashboards))
+    DashboardPages((Dashboard Pages))
+      OverviewDashboards[Overview Dashboards]
+      ServiceHealth[Service Health Dashboards]
+      Infrastructure[Infrastructure Dashboards]
+      CustomKPIs[Custom KPIs]
+    TilesVisualizations((Tiles & Visualizations))
+      Charts[Charts]
+      Heatmaps[Heatmaps]
+      DataTables[Data Tables]
+      SingleValue[Single Value Tiles]
+      CustomQueries[Custom Queries]
+    DataSources((Data Sources))
+      Metrics[Metrics]
+      Problems[Problems]
+      LogsEvents[Logs & Events]
+      Traces[Traces]
+      Entities[Entities]
+    SharingAlerts((Sharing & Alerts))
+      Links[Sharing Links]
+      Permissions[Dashboards Permissions]
+      AlertIntegration[Alert Integration]
+      Export[PDF/PNG Export]
 ```
 
 ## Key Concepts
