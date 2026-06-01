@@ -103,3 +103,14 @@ mindmap
 ## Summary
 
 The Dynatrace Digital Experience app is essential for understanding how users perceive application performance. It provides RUM, synthetic monitoring, user session insights, and problem detection that are key topics for the DynaTrace Associate certification.
+
+## Related Links
+
+- [What is AppDex](https://raygun.com/blog/apdex-score-guide/)
+- [AppDex Guide](https://raygun.com/blog/apdex-score-guide/)
+- [Core Web Vitals overview](https://web.dev/vitals/)
+- [Largest Contentful Paint (LCP)](https://web.dev/lcp/)
+- [Cumulative Layout Shift (CLS)](https://web.dev/cls/)
+- [Interaction to Next Paint (INP)](https://web.dev/inp/)
+- [User Sessions](https://docs.dynatrace.com/docs/observe/digital-experience/rum-concepts/user-session)
+- [Page Load Analysis](https://www.headspin.io/blog/guide-to-test-website-performance)
