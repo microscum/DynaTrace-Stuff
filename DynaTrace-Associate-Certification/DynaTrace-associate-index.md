@@ -1,5 +1,8 @@
 # Dynatrace-Associate-Study-Notes
 
+## Main Certification File
+
+This file is the primary entry point for Dynatrace Associate Certification study. Use it as the main roadmap to open app guides, flashcards, practice exams, exercises, and supporting certification resources.
 
 ## About this certification
 
@@ -42,7 +45,11 @@ Exam details
 
 [Data Retention Periods](https://www.dynatrace.com/support/help/how-to-use-dynatrace/data-privacy-and-security/data-privacy/data-retention-periods)
 
-## Study Notes and App Reference
+## Page Index
+
+Use the links below as the primary page index for Associate certification study.
+
+### Apps
 
 - [Dynatrace Application Security](Dynatrace-Application-Security-App.md)
   - Explains Application Security features, runtime threat detection, vulnerability scoring, and security correlation for Associate-level study.
