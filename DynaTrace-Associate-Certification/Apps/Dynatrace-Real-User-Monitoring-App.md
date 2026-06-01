@@ -106,7 +106,7 @@ mindmap
 - [AppDex Guide](https://raygun.com/blog/apdex-score-guide/)
 - [Core Web Vitals overview](https://web.dev/vitals/)
 - [Largest Contentful Paint (LCP)](https://web.dev/lcp/)
-- [Cumulative Layout Shift (CLS)](https://web.dev/cls/)
+- [Cumulative Layout Shift (CLS)](https://ahrefs.com/blog/cumulative-layout-shift-cls/)
 - [Interaction to Next Paint (INP)](https://web.dev/inp/)
 - [User Sessions](https://docs.dynatrace.com/docs/observe/digital-experience/rum-concepts/user-session)
 
