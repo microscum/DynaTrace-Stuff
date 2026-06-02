@@ -97,6 +97,17 @@ Use the links below as the primary page index for Associate certification study.
   - Describes deployment tracking, release correlation, impact analysis, and regression detection.
 - [Apps/Dynatrace-Hub-App.md](Apps/Dynatrace-Hub-App.md)
   - Covers extensions, integrations, custom plugins, and the Dynatrace marketplace.
+### Components
+
+- [Apps/Dynatrace-OneAgent-Component.md](Apps/Dynatrace-OneAgent-Component.md)
+  - Describes OneAgent installation, automatic discovery, tracing, and full-stack observability.
+- [Apps/Dynatrace-ActiveGate-Component.md](Apps/Dynatrace-ActiveGate-Component.md)
+  - Explains ActiveGate secure relay, proxy support, network zones, and extension hosting.
+- [Apps/Dynatrace-Deployment-Status-Component.md](Apps/Dynatrace-Deployment-Status-Component.md)
+  - Covers deployment tracking, release correlation, CI/CD integration, and status visibility.
+- [Apps/Dynatrace-Credential-Vault-Component.md](Apps/Dynatrace-Credential-Vault-Component.md)
+  - Describes secure secret storage, extension credentials, and audit support.
+
 ## Flashcards
 
 - [flashcards/Dynatrace-Services-Flashcards.md](flashcards/Dynatrace-Services-Flashcards.md)
@@ -159,6 +170,14 @@ Use the links below as the primary page index for Associate certification study.
   - Deployment tracking, release correlation, and regression detection.
 - [flashcards/Dynatrace-Hub-Flashcards.md](flashcards/Dynatrace-Hub-Flashcards.md)
   - Extensions, integrations, marketplace, and custom plugins.
+- [flashcards/Dynatrace-OneAgent-Flashcards.md](flashcards/Dynatrace-OneAgent-Flashcards.md)
+  - Quick review of OneAgent discovery, instrumentation, and observability.
+- [flashcards/Dynatrace-ActiveGate-Flashcards.md](flashcards/Dynatrace-ActiveGate-Flashcards.md)
+  - Review ActiveGate relay, proxy support, extensions, and secure connectivity.
+- [flashcards/Dynatrace-Deployment-Status-Flashcards.md](flashcards/Dynatrace-Deployment-Status-Flashcards.md)
+  - Deployment tracking, release correlation, and impact analysis review.
+- [flashcards/Dynatrace-Credential-Vault-Flashcards.md](flashcards/Dynatrace-Credential-Vault-Flashcards.md)
+  - Secure credentials, extension access, and audit review.
 
 ## Other Resources in this Folder
 

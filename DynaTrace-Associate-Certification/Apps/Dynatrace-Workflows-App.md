@@ -88,3 +88,8 @@ mindmap
 ## Summary
 
 Dynatrace Workflows enable automated operational responses to observability events. For Associate certification, they illustrate how actions can be applied consistently and safely in response to alerts and problems.
+
+## Related Resources
+- [AutomationEngine](https://docs.dynatrace.com/docs/shortlink/automationengine)
+- [Introduction to Workflows](https://docs.dynatrace.com/docs/shortlink/workflows)
+- [Workflows Quick Start Guide](https://docs.dynatrace.com/docs/shortlink/workflows-quickstart)
