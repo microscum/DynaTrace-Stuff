@@ -101,3 +101,6 @@ mindmap
 ## Summary
 
 Dynatrace Smartscape is a powerful topology visualization tool that shows how monitored entities relate and interact. For the DynaTrace Associate certification, it highlights the importance of automatic discovery, dependency mapping, and real-time infrastructure context.
+
+## Related Resources
+- [Visualize your environment topology through Smartscape](https://docs.dynatrace.com/docs/shortlink/smartscape)
