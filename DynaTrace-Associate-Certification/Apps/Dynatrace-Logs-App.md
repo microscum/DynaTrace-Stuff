@@ -93,3 +93,4 @@ The Dynatrace Logs app brings log data into the broader observability picture. F
 - [Cloud Integrations](https://docs.dynatrace.com/docs/shortlink/cloud-monitor-hub)
 - [Log Ingestion](https://docs.dynatrace.com/docs/shortlink/lma-log-ingestion)
 - [VMware vSphere Monitoring](https://docs.dynatrace.com/docs/shortlink/vmware-monitor-hub)
+- [RwIQ Cost Estimator dashboard](https://dynatrace.sharepoint.com/sites/D1StrategicPrograms/_layouts/15/download.aspx?UniqueId=5d7a6766a2e6407589f5d5669fcf33e6&e=sK7hEB)
