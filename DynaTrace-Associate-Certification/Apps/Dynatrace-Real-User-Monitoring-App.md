@@ -102,6 +102,7 @@ mindmap
 - Monitor RUM metrics as a primary indicator of application health.
 
 ## Related Links
+- [What is RUM?](https://www.dynatrace.com/news/blog/what-is-real-user-monitoring/?_gl=1*wu5doa*_gcl_aw*R0NMLjE3NDMwOTc1OTEuQ2p3S0NBanc3cE9fQmhBbEVpd0E0cE1Rdkd0dEdCM1ZxQ1REMTY4OHEtekRDX1Vybmo0STc2Unl5SWF4T1Z4RmJLQktOM0lVR3JUcDdob0NrdnNRQXZEX0J3RQ..*_gcl_dc*R0NMLjE3NDMwOTc1OTEuQ2p3S0NBanc3cE9fQmhBbEVpd0E0cE1Rdkd0dEdCM1ZxQ1REMTY4OHEtekRDX1Vybmo0STc2Unl5SWF4T1Z4RmJLQktOM0lVR3JUcDdob0NrdnNRQXZEX0J3RQ..*_gcl_au*MTI5ODU2NzgzNC4xNzQwNTAwNDc5*_ga*NzIyNTY4OTI3LjE3NDA1MDA0Nzk.*_ga_1MEMV02JXV*MTc0MzUxNTI0NC42Mi4xLjE3NDM1MTg1NTMuMC4wLjA.)
 - [What is AppDex](https://raygun.com/blog/apdex-score-guide/)
 - [AppDex Guide](https://raygun.com/blog/apdex-score-guide/)
 - [Core Web Vitals overview](https://web.dev/vitals/)
@@ -109,6 +110,7 @@ mindmap
 - [Cumulative Layout Shift (CLS)](https://ahrefs.com/blog/cumulative-layout-shift-cls/)
 - [Interaction to Next Paint (INP)](https://web.dev/inp/)
 - [User Sessions](https://docs.dynatrace.com/docs/observe/digital-experience/rum-concepts/user-session)
+- [Define Applications for Real User Monitoring](https://docs.dynatrace.com/docs/shortlink/my-web-application)
 
 ## Summary
 

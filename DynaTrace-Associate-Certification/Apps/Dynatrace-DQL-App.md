@@ -88,3 +88,8 @@ mindmap
 ## Summary
 
 Dynatrace DQL enables advanced, cross-domain observability queries. For Associate certification, it highlights the power of custom data retrieval and visualization beyond built-in monitoring views.
+
+## Related Resources
+- [DynaTrace Query Language](https://docs.dynatrace.com/docs/shortlink/dql-dynatrace-query-language-hub)
+- [How to Use DQL Queries](https://docs.dynatrace.com/docs/shortlink/dql-use-queries)
+- [Beginners Exercise](https://wkf10640.apps.dynatrace.com/ui/apps/dynatrace.learndql/)

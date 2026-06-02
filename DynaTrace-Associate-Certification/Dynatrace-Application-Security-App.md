@@ -96,3 +96,11 @@ mindmap
 ## Summary
 
 The Dynatrace Application Security app helps secure applications by surfacing runtime threats, vulnerabilities, and risk context. For the DynaTrace Associate certification, it highlights how security monitoring is integrated into the broader observability platform and how security findings are prioritized and correlated with application health.
+
+## Related Resources
+- [Application Security](https://docs.dynatrace.com/docs/shortlink/application-security-hub)
+- [Dynatrace Hub: Application Security](https://www.dynatrace.com/hub/?filter=application-security)
+- [Third-Party Vulnerabilities](https://docs.dynatrace.com/docs/shortlink/tpv-hub)
+- [Davis Security Advisor Calculations](https://docs.dynatrace.com/docs/shortlink/dsa)
+- [Davis Security Score Calculations](https://docs.dynatrace.com/docs/shortlink/dss)
+- [Code-Level Vulnerabilities](https://docs.dynatrace.com/docs/shortlink/clv-hub)

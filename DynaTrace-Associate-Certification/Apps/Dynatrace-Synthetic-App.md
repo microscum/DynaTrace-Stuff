@@ -101,3 +101,7 @@ mindmap
 ## Summary
 
 Dynatrace Synthetic provides proactive application monitoring through automated browser and API tests. For Associate certification, it demonstrates how synthetic testing complements real user monitoring and enables availability and performance SLOs.
+
+## Related Resources
+- [DynaTrace: Sythentic Monitoring] (https://docs.dynatrace.com/docs/shortlink/synthetic-hub)
+- [What is Synthetic Monitoring](https://www.dynatrace.com/news/blog/what-is-synthetic-monitoring/)

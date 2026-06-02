@@ -106,6 +106,8 @@ The Dynatrace Digital Experience app is essential for understanding how users pe
 
 ## Related Links
 
+- [DynaTrace Digital Experience Manager](https://docs.dynatrace.com/docs/shortlink/dem-landing)
+- [Business Observability](https://docs.dynatrace.com/docs/observe/business-observability)
 - [What is AppDex](https://raygun.com/blog/apdex-score-guide/)
 - [AppDex Guide](https://raygun.com/blog/apdex-score-guide/)
 - [Core Web Vitals overview](https://web.dev/vitals/)
