@@ -88,3 +88,8 @@ mindmap
 ## Summary
 
 The Dynatrace Logs app brings log data into the broader observability picture. For Associate certification, it demonstrates how logs complement metrics and traces in troubleshooting and analysis.
+
+## Related Resources
+- [Cloud Integrations](https://docs.dynatrace.com/docs/shortlink/cloud-monitor-hub)
+- [Log Ingestion](https://docs.dynatrace.com/docs/shortlink/lma-log-ingestion)
+- [VMware vSphere Monitoring](https://docs.dynatrace.com/docs/shortlink/vmware-monitor-hub)
